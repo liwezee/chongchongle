@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="虫虫乐安装向导预览">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef6ff"/>
+      <stop offset="1" stop-color="#fff3e6"/>
+    </linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5aa9ff"/>
+      <stop offset="1" stop-color="#35b894"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#6b7f99" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="960" height="600" rx="32" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="42" y="48" width="876" height="504" rx="38" fill="#ffffff" fill-opacity=".78" stroke="#fff" stroke-width="2"/>
+    <rect x="76" y="82" width="236" height="436" rx="34" fill="url(#side)"/>
+    <circle cx="128" cy="132" r="42" fill="#ffffff" opacity=".26"/>
+    <text x="111" y="147" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="34" font-weight="900" fill="#fff">奖</text>
+    <text x="108" y="230" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="34" font-weight="900" fill="#fff">欢迎使用</text>
+    <text x="108" y="272" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="17" fill="#eef8ff">安装完成后可直接启动，</text>
+    <text x="108" y="300" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="17" fill="#eef8ff">并创建常用快捷方式。</text>
+    <rect x="108" y="370" width="166" height="34" rx="17" fill="#fff" opacity=".24" stroke="#fff"/>
+    <text x="142" y="392" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="15" font-weight="800" fill="#fff">可更改安装目录</text>
+    <text x="108" y="472" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#fff">虫虫乐安装向导</text>
+    <text x="360" y="136" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="38" font-weight="900" fill="#172033">安装虫虫乐</text>
+    <text x="360" y="176" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" fill="#58677d">请选择安装位置。安装完成后，系统将创建桌面和开始菜单快捷方式。</text>
+    <text x="360" y="246" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#172033">选择安装位置</text>
+    <rect x="360" y="266" width="350" height="52" rx="20" fill="#f8fbff" stroke="#dbe7f3"/>
+    <text x="382" y="299" font-family="Consolas, Microsoft YaHei, monospace" font-size="17" fill="#334155">C:\Program Files\Chongchongle</text>
+    <rect x="732" y="266" width="118" height="52" rx="26" fill="#ffffff" stroke="#dbe7f3"/>
+    <text x="760" y="299" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="17" font-weight="800" fill="#172033">更改位置</text>
+    <text x="360" y="374" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#172033">当前状态</text>
+    <rect x="360" y="394" width="490" height="82" rx="24" fill="#f8fbff" stroke="#dbe7f3"/>
+    <text x="388" y="445" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="22" font-weight="900" fill="#172033">准备安装</text>
+    <rect x="360" y="504" width="138" height="50" rx="25" fill="#2f80ed"/>
+    <text x="396" y="536" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" font-weight="900" fill="#fff">开始安装</text>
+    <rect x="728" y="504" width="122" height="50" rx="25" fill="#fff" stroke="#dbe7f3"/>
+    <text x="760" y="536" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="18" font-weight="800" fill="#172033">退出</text>
+  </g>
+</svg>
