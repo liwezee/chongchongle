@@ -31,7 +31,6 @@ https://github.com/liwezee/chongchongle/releases
 
 - Windows 安装包：用于电脑端抽奖主程序。
 - Android APK：用于手机控制端。
-- SHA256SUMS.txt：用于校验下载文件完整性。
 
 ## 使用方式
 
@@ -43,8 +42,4 @@ https://github.com/liwezee/chongchongle/releases
 
 ## 授权说明
 
-本公开仓库仅用于发布正式安装包、APK、更新日志和校验信息，不再公开应用源代码。
-
 虫虫乐新发布包采用专有软件许可。未经明确授权，禁止复制、二次分发、反编译、逆向工程、重新打包或绕过保护。
-
-如需源码维护、构建或审计，请使用项目维护者的私有源码仓库。
