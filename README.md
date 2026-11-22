@@ -2,7 +2,7 @@
 
 虫虫乐是一套面向现场活动、门店互动、展会抽奖和小型运营活动的七级奖项抽奖控制系统。它由 Windows 桌面端、Android 控制端和手机网页控制端组成，适合在一台电脑上运行抽奖主程序，再用手机进行现场控制、奖池维护和记录查看。
 
-![虫虫乐桌面端预览](assets/desktop-overview.svg)
+![虫虫乐 2.0 设置页](assets/desktop-settings.png)
 
 ## 主要功能
 
@@ -19,9 +19,13 @@
 
 ## 界面预览
 
-| 桌面端奖池与记录 | 手机控制端 | 安装向导 |
-| --- | --- | --- |
-| ![桌面端](assets/desktop-overview.svg) | ![手机控制端](assets/mobile-control.svg) | ![安装向导](assets/installer-preview.svg) |
+| 抽奖台 | 设置页：奖池、记录、指定下一发、现场模式与手机控制 |
+| --- | --- |
+| ![抽奖台](assets/desktop-stage.jpg) | ![设置页](assets/desktop-settings.png) |
+
+| 手机控制端 | 安装向导：从 1.4 升级 |
+| --- | --- |
+| ![手机控制端](assets/mobile-control.png) | ![安装向导](assets/installer.png) |
 
 ## 下载
 
